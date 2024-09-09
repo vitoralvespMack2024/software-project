@@ -1,37 +1,23 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
+# Projeto: Sistema de Presença
 
-# Template para Disciplina de Engenharia de Software
-
-O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
-
-A seguir, os passos para a preparação do projeto:
-
-1. Um dos membros do grupo deverá realizar um *fork* deste repositório.
-2. O dono do repositório deverá convidar os demais membros do grupo para serem colaboradores.
-3. O dono do repositório deverá convidar o professor para ser colaborador do repositório.
-4. O dono do repositório deverá habilitar o GitHub Pages. Basta seguir o [procedimento para habilitar o GitHub Pages](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), lembrando de escolher em *Source* a opção `/docs` em lugar da opção `/root`.
-5. Cada membro do grupo deverá instalar o [Git](https://git-scm.com/downloads).
-6. Para a edição do conteúdo deste projeto, sugere-se que cada membro do grupo faça a instalação do [Visual Studio Code](https://code.visualstudio.com/) com as extensões [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) e [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github). No entanto, cada membro poderá utilizar a IDE de sua preferência.
-7. Cada membro do grupo deverá [clonar o repositório do grupo no seu computador](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette).
-8. Cada membro do grupo deverá editar o seu próprio nome no arquivo em [/docs/index.md](./docs/index.md), de preferência [criando um novo *branch* e um *pull request*](https://www.youtube.com/watch?v=LdSwWxVzUpo).
-9. O dono do repositório deverá editar este arquivo, removendo estas instruções iniciais e preenchendo o restante da página com os dados do projeto do seu grupo.
-10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
-
-
-# Projeto: *<Nome_do_seu_Projeto>*
-
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: Software Project
 
 # Descrição
+Com o intuito de otimizar o sistema de presença da Escola Infinito, desenvolvemos o **Nome do Projeto**, um sistema misto de presença — online e presencial — que agiliza o processo de validação de comparecimento dos alunos nas aulas ministradas durante o ano/semestre, criando uma relação mais assertiva com o controle de faltas e presença com segurança e facilidade no dia-a-dia.
 
-*<Descrição_resumida_do_projeto>*
+Para isso, o sistema conta com duas fases essenciais: a fase presencial e a fase online. A fase presencial é a fase em que o professor irá chamar os nomes dos alunos no início da aula, um a um, e identificá-los ao sistema, isto é, marcar manualmente a presença de cada um deles. Essa etapa é fundamental para garantir que os alunos chegaram em segurança na classe e que o professor, como o responsável, os viu e garantiu por meio do processo manual de presença que estavam na aula em uma data definida por DD/MM/AA. Tendo realizado esta etapa, a fase online seria a fase a ser realizada em seguida para determinar que os alunos compareceram nas próximas aulas ministradas no dia. Assim, por meio de um aplicativo mobile e/ou web, o professor dispara — por meio do sistema — telas individuais para cada aluno, com uma descrição da aula, dia e horário, identificador único e um botão de presença e, assim, cada aluno registra a sua presença na aula de forma rápida e efetiva, sem que a aula perca muito tempo para esta tarefa.
+
+Contudo, por ser um sistema flexível e acessível a todos, é possível que em casos específicos a presença possa ser marcada manualmente por um responsável na aula ou secretaria da escola, como: **1. Atrasos:** Consideramos que atrasos são parte do cotidiano e por isso o sistema permite que durante a primeira aula seja possível marcar a presença de alunos que chegaram após o horário em um dia DD/MM/AA; **2. Problemas de Saúde:** Se um aluno possui a presença identificada na fase presencial e por motivos de problemas de saúde teve que se ausentar das próximas aulas, o sistema permite que as faltas sejam anuladas por um responsável na secretaria; **3. Dificuldades ao acesso à tecnologia:** No caso de possíveis restrições à tecnologia, seja pelos responsáveis ou acessibilidade, é possível que por meio de um requerimento na secretaria seja autorizado que estes alunos realizem a sua presença sempre de maneira manual, por meio de uma assinatura durante as fases presencial e online. ****
+
+Sobre o controle de faltas, há um limite estabelecido pela escola que é de no mínimo setenta e cinco por cento (75%) de presença nas aulas do ano para receber a aprovação. Alunos que possuem faltas consecutivas a partir de sete (7) dias receberão uma notificação no aplicativo e seus responsáveis receberão uma notificação via e-mail com o intuito de manter os responsáveis pelos alunos cientes da situação de cada um deles neste contexto. A contabilização das presenças e faltas pode ser acessada por meio do perfil do aluno no aplicativo.
+
+Portanto, o sistema visa otimizar o dia-a-dia dos professores e alunos e facilitar o controle das presenças e faltas durante o período letivo e por isso, acreditamos que o sistema cumpre a tarefa de maneira eficaz e segura. O objetivo do projeto é sempre evoluir e oferecer atualizações para cumprir o que é requerido da melhor maneira possível e por isso futuras atualizações podem vir após o seu lançamento. Isso posto, confira a seguir as especificações técnicas dos processos descritos para esclarecer detalhes de implementação e funcionamento do projeto apresentado.
 
 # Documentação
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
-
-
 
 # Releases
 
