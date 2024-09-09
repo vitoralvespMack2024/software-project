@@ -8,19 +8,20 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Autores](#autores)
+- [Descrição do Projeto](#descricao-do-projeto)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#analise-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
-- [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
-- [Descrição dos Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de Classes](#diagrama-orientado-objetos)
-- [Diagrama de Estados](#diagrama-estrutura-componente)
-- [Diagrama de Implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
+- [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
+- [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
+- [Diagrama de Senquencia](#diagrama-de-sequencia)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Estados](#diagrama-de-estados)
+- [Diagrama de Implementação](#diagrama-de-implementacao)
+- [Referências](#referencias)
 
 
+<a id="autores"></a>
 # Autores
 
 * Vitor Alves Pereira - 10410862
@@ -28,7 +29,7 @@
 * Aluno 3
 * Aluno 4
 
-
+<a id="descricao-do-projeto"></a>
 # Descrição do Projeto
 Com o intuito de otimizar o sistema de presença da Escola Infinito, desenvolvemos o **Nome do Projeto**, um sistema misto de presença — online e presencial — que agiliza o processo de validação de comparecimento dos alunos nas aulas ministradas durante o ano/semestre, criando uma relação mais assertiva com o controle de faltas e presença com segurança e facilidade no dia-a-dia.
 
@@ -40,8 +41,7 @@ Sobre o controle de faltas, há um limite estabelecido pela escola que é de no 
 
 Portanto, o sistema visa otimizar o dia-a-dia dos professores e alunos e facilitar o controle das presenças e faltas durante o período letivo e por isso, acreditamos que o sistema cumpre a tarefa de maneira eficaz e segura. O objetivo do projeto é sempre evoluir e oferecer atualizações para cumprir o que é requerido da melhor maneira possível e por isso futuras atualizações podem vir após o seu lançamento. Isso posto, confira a seguir as especificações técnicas dos processos descritos para esclarecer detalhes de implementação e funcionamento do projeto apresentado.
 
----
-
+<a id="analise-dos-requisitos"></a>
 # Análise de Requisitos Funcionais e Não-Funcionais
 1. **Requisitos Funcionais:**
     - O sistema deve permitir que os professores e alunos obtenham acesso por meio de uma conta única com acesso a funcionalidades restritas de acordo com as predefinições  hierárquicas da instituição;
@@ -56,34 +56,42 @@ Portanto, o sistema visa otimizar o dia-a-dia dos professores e alunos e facilit
     - O sistema deve garantir a segurança dos dados dos alunos, professores e secretaria por meio de estratégias de segurança de dados, como a criptografia;
     - O sistema deve ser acessível em dispositivos móveis e desktops por meio de uma aplicação web e mobile.
 
+<a id="diagrama-das-atividades"></a>
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
 
+<a id="diagrama-dos-casos-de-uso"></a>
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
+<a id="descricao-dos-casos-de-uso"></a>
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
+<a id="diagrama-de-sequencia"></a>
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
+<a id="diagrama-de-classes"></a>
 # Diagrama de Classes
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
+<a id="diagrama-de-estados"></a>
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
+<a id="diagrama-de-implementacao"></a>
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
+<a id="referencias"></a>
 # Referências
 
 *&lt;Lista de referências&gt;*
