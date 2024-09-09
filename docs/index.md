@@ -59,7 +59,10 @@ Portanto, o sistema visa otimizar o dia-a-dia dos professores e alunos e facilit
 <a id="diagrama-das-atividades"></a>
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+| Fase Presencial | Fase Online |
+| -------- | -------- |
+| <img src="/docs/Fase Presencial.jpeg" alt="Fase Presencial"/> | <img src="/docs/Fase Online.jpeg" alt="Fase Online"/> |
+
 
 <a id="diagrama-dos-casos-de-uso"></a>
 # Diagrama de Casos de Uso
