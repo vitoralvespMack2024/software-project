@@ -25,7 +25,7 @@
 # Autores
 
 * Vitor Alves Pereira - 10410862
-* Aluno 2
+* Eduardo Takashi Missaka - 10417877
 * Aluno 3
 * Aluno 4
 
