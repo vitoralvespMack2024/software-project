@@ -26,7 +26,7 @@
 
 * Vitor Alves Pereira - 10410862
 * Eduardo Takashi Missaka - 10417877
-* Aluno 3
+* Fernando Mathias Ferro dos Santos - 10418683 
 * Aluno 4
 
 <a id="descricao-do-projeto"></a>
