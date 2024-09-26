@@ -98,6 +98,7 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 ### Especificação dos Casos de Uso para cada RF
 | **Ator Principal**            | Administrador do sistema                                                                 |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Atores Secundários**        | Professores e alunos                                                                      |
 | **Resumo**                    | Usuários do sistema devem acessar suas contas vinculadas à instituição de forma prática.  |
 | **Pré-Condições**             | O administrador deve estar autenticado no sistema e ter permissões de gerenciamento de contas. |
