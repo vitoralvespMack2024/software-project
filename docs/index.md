@@ -66,8 +66,7 @@ Portanto, o sistema visa otimizar o dia-a-dia dos professores e alunos e facilit
 
 <a id="diagrama-dos-casos-de-uso"></a>
 # Diagrama de Casos de Uso
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+<img src="/docs/Fase 3 - Descrição dos Casos de Uso.jpeg" alt="Fase 3 - DIagrama dos Casos de Uso"/>
 
 <a id="descricao-dos-casos-de-uso"></a>
 # Descrição dos Casos de Uso
