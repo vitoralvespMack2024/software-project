@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de Presença&gt;*
 </center></font>
 
 **Conteúdo**
@@ -31,7 +31,7 @@
 
 <a id="descricao-do-projeto"></a>
 # Descrição do Projeto
-Com o intuito de otimizar o sistema de presença da Escola Infinito, desenvolvemos o **Nome do Projeto**, um sistema misto de presença — online e presencial — que agiliza o processo de validação de comparecimento dos alunos nas aulas ministradas durante o ano/semestre, criando uma relação mais assertiva com o controle de faltas e presença com segurança e facilidade no dia-a-dia.
+Com o intuito de otimizar o sistema de presença da Escola Infinito, desenvolvemos o **Sistema de Presença**, um sistema misto de presença — online e presencial — que agiliza o processo de validação de comparecimento dos alunos nas aulas ministradas durante o ano/semestre, criando uma relação mais assertiva com o controle de faltas e presença com segurança e facilidade no dia-a-dia.
 
 Para isso, o sistema conta com duas fases essenciais: a fase presencial e a fase online. A fase presencial é a fase em que o professor irá chamar os nomes dos alunos no início da aula, um a um, e identificá-los ao sistema, isto é, marcar manualmente a presença de cada um deles. Essa etapa é fundamental para garantir que os alunos chegaram em segurança na classe e que o professor, como o responsável, os viu e garantiu por meio do processo manual de presença que estavam na aula em uma data definida por DD/MM/AA. Tendo realizado esta etapa, a fase online seria a fase a ser realizada em seguida para determinar que os alunos compareceram nas próximas aulas ministradas no dia. Assim, por meio de um aplicativo mobile e/ou web, o professor dispara — por meio do sistema — telas individuais para cada aluno, com uma descrição da aula, dia e horário, identificador único e um botão de presença e, assim, cada aluno registra a sua presença na aula de forma rápida e efetiva, sem que a aula perca muito tempo para esta tarefa.
 
