@@ -214,7 +214,7 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 <a id="diagrama-de-sequencia"></a>
 # Diagrama de Sequência
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+<img src="/docs/Blank diagram.jpeg" alt="Diagrama de sequência"/>
 
 <a id="diagrama-de-classes"></a>
 # Diagrama de Classes
