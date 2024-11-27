@@ -14,7 +14,7 @@
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
-- [Diagrama de Senquencia](#diagrama-de-sequencia)
+- [Diagrama de Sequência](#diagrama-de-sequencia)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estados](#diagrama-de-estados)
 - [Diagrama de Implementação](#diagrama-de-implementacao)
@@ -214,7 +214,7 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 <a id="diagrama-de-sequencia"></a>
 # Diagrama de Sequência
-<img src="/docs/Blank diagram.jpeg" alt="Diagrama de sequência"/>
+<img src="/docs/Diagrama de Sequência.jpeg" alt="Diagrama de sequência"/>
 
 <a id="diagrama-de-classes"></a>
 # Diagrama de Classes
@@ -227,8 +227,7 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 <a id="diagrama-de-implementacao"></a>
 # Diagrama de Implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+<img src="/docs/Diagrama de Implantação.jpeg" alt="Diagrama de Implantação"/>
 
 <a id="referencias"></a>
 # Referências
