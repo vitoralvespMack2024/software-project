@@ -231,5 +231,13 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 <a id="referencias"></a>
 # Referências
-
-*&lt;Lista de referências&gt;*
+[1] - REQUISITOS Funcionais e Requisitos Não Funcionais: Projeto de Software. [S. l.], 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/474349/mod_resource/content/2/Requisitos_UML_ProjetoSW.pdf. Acesso em: 31 out. 2024. \
+[2] - PROJETO de arquitetura: Uma abordagem recomendada. In: S. PRESSMAN, Roger; R. MAXIM, Bruce. Engenharia de Software. 9ª Edição. ed. [S. l.: s. n.], 2021. cap. Capítulo 10, p. 181 - 205. Disponível em: https://app.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/40[%3Bvnd.vst.idref%3DC10.xhtml]!/4[PRESSMAN_Completo-16]/2/288/7:18[%20co%2Cere]. Acesso em: 31 out. 2024. \
+[3] - UML: Unified Modeling Language. São Paulo , SP - Brasil, 2021. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/450270/mod_resource/content/1/aula-uml-atividades.pdf. Acesso em: 31 out. 2024. \
+[4] - MODELAGEM DE SISTEMAS COM DIAGRAMA DE CASOS DE USO. São Paulo , SP - Brasil, 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/450272/mod_resource/content/1/Casos-De-Uso.pdf. Acesso em: 31 out. 2024. \
+[5] - ESPECIFICAÇÃO DE REQUISITOS. São Paulo , SP - Brasil, 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/450275/mod_resource/content/1/EngenhariaSoftware_Requisitos02.pdf. Acesso em: 31 out. 2024. \
+[6] - S. PRESSMAN, Roger; MAXIM, Bruce R. Engenharia de Software. In: INTRODUÇÃO à UML. 9ª Edição. ed. São Paulo , SP - Brasil: [s. n.], 2021. cap. Apêndice 1, p. 611 - 628. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/450275/mod_resource/content/1/EngenhariaSoftware_Requisitos02.pdf. Acesso em: 31 out. 2024 \
+[7] - INSIGTHS para o uso do Diagrama de Sequência. São Paulo , SP - Brasil, 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/450289/mod_resource/content/1/Diagrama%20de%20Sequencia%2001.pdf. Acesso em: 25 nov. 2024. \
+[8] - OBJETOS e Classes. São Paulo , SP - Brasil, 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/450292/mod_resource/content/2/Introducao%20-%20Objetos%20e%20Classes%20%28UML%20Classes%29.pdf. Acesso em: 25 nov. 2024. \
+[9] - DIAGRAMA DE ESTADOS. São Paulo , SP - Brasil, 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/575468/mod_resource/content/1/Diagrama_Estados.pdf. Acesso em: 25 nov. 2024. \
+[10] - DIAGRAMA DE IMPLANTAÇÃO. São Paulo , SP - Brasil, 19 mar. 2024. Disponibilizado no Moodle. Disponível em: https://graduacao.mackenzie.br/pluginfile.php/575469/mod_resource/content/1/Diagrama_Implatancao.pdf. Acesso em: 27 nov. 2024.
