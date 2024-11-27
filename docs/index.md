@@ -223,8 +223,7 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 <a id="diagrama-de-estados"></a>
 # Diagrama de Estados
-
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+<img src="/docs/Diagrama de Estados.jpeg" alt="Diagrama de Estados"/>
 
 <a id="diagrama-de-implementacao"></a>
 # Diagrama de Implantação
