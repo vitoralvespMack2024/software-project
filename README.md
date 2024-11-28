@@ -24,4 +24,5 @@ Portanto, o sistema visa otimizar o dia-a-dia dos professores e alunos e facilit
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://github.com/vitoralvespMack2024/software-project/blob/main/docs/index.md**
 
 # Releases
-**1º Release:** Fases I, II, III e IV em 03/10/2024
+**1º Release:** Fases I, II, III e IV em 03/10/2024 \
+**2º Release:** Fases V, VI, VII e VIII em 28/11/2024
