@@ -218,8 +218,7 @@ Refere-se a quais requisitos funcionais o caso de uso está associado. Nesse cas
 
 <a id="diagrama-de-classes"></a>
 # Diagrama de Classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+<img src="/docs/Diagrama de classes.png" alt="Diagrama de classes"/>
 
 <a id="diagrama-de-estados"></a>
 # Diagrama de Estados
